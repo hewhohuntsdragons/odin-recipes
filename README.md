@@ -13,3 +13,8 @@ I ended up doing more than what I was supposed to do, I think I can make it look
 
 I am proud of my first work.
 
+(april 29 - 22:40)
+after taking a month-long break in learning The Odin Project, i managed to start again last week and learned about CSS, in this update I added external CSS, <div>, and practiced using Git
+
+(april 30 - 22:46)
+i was having problems in using Git to commit, i kept deleting the directory and commiting over and over again. however, after much experimentation i managed to clean the directory and upload all the files again.
